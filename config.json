@@ -1,1 +1,5 @@
-{"ip":"SagarGaming24.aternos.me","name":"Glow SMP","port":"37349"}
+{
+	"ip":"SagarGaming24.aternos.me",
+	"port": "37349",
+	"name": "afkbot"
+}
